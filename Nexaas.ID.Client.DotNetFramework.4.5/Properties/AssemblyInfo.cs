@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Nexaas.ID.Client.DotNetFramework.4.5")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Pacote para consumir o serviço de identidade do NexaasID através do .Net Framework 4.5")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Nexaas.ID.Client.DotNetFramework.4.5")]

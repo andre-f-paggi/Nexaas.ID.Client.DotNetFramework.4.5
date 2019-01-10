@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>André F. Paggi</authors>
+    <owners>André F. Paggi</owners>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/andre-f-paggi/Nexaas.ID.Client.DotNetFramework.4.5</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Pacote para consumir o serviço de identidade do NexaasID através do .Net Framework 4.5</description>
+    <releaseNotes>Versão inicial</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>NexaasId</tags>
+  </metadata>
+</package>
